@@ -34,7 +34,7 @@
     </ol>
     <p>🌱 I’m currently expanding ML and object-oriented programming skill-set.</p>
     <p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
-    <p>🔭 I’m looking to expanding my portfolio.</p>
+    <p>🔭 I’m looking to expand my portfolio.</p>
     <p>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</p>
     <p>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</p>
 </div>
