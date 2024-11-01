@@ -2,7 +2,9 @@
 
 My name is Michael. This is where I share code and break things I love.
 
-- ⌨️ My most recent contributions was enabling Ledger HW support for [Stargazer Wallet](https://github.com/buzzgreyday/stargazer-wallet-ledger) by adding `TransactionsV2` support and developing [the Nodebot](https://github.com/buzzgreyday/hgtp-node-discord-bot).
+- ⌨️ My most recent contributions was:
+    * Enabling Ledger HW support for [Stargazer Wallet](https://github.com/buzzgreyday/stargazer-wallet-ledger) by adding `TransactionsV2` support
+    * Developing [the Nodebot](https://github.com/buzzgreyday/hgtp-node-discord-bot)
 - 🌱 I’m currently expanding skill set in ML and object-oriented programming in general.
 - 👯 I’m looking to collaborate on anything related to data processing, Python development or automation.
 - 🔭 I’m looking for work and expanding my portfolio.
