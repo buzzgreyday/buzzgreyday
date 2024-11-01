@@ -26,18 +26,16 @@
     <img alt="Docker" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
     <img alt="Docker" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
 </p>
-<ul style="font-size: 18px;list-style-type: none;">
-    <li>⌨️ My most recent contributions:</li>
-    <ul></p>
-        <li> Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</li>
-        <li>Developing <a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">the Nodebot</a></li>
-    </ul>
-    <li>🌱 I’m currently expanding ML and object-oriented programming skill-set.</li>
-    <li>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</li>
-    <li>🔭 I’m looking to expanding my portfolio.</li>
-    <li>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</li>
-    <li>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</li>
-</ul>
+<p>⌨️ My most recent contributions:</p>
+<ol>
+    <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
+    <p>Developing <a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">the Nodebot</a></p>
+</ol>
+<p>🌱 I’m currently expanding ML and object-oriented programming skill-set.</p>
+<p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
+<p>🔭 I’m looking to expanding my portfolio.</p>
+<p>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</p>
+<p>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</p>
 
 <h3>📫 Where to find me:</h3>
 <a href="https://discordapp.com/users/794353079825727500" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
