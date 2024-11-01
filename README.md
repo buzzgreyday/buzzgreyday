@@ -40,7 +40,7 @@
 </ul>
 
 <h3>📫 Where to find me:</h3>
-<a href="https://discordapp.com/users/794353079825727500" target="_blank"><img alt="Disocrd" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discordapp.com/users/794353079825727500" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:micbr@pm.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?&style=for-the-badge&logo=protonmail&logoColor=fff" /></a>
-<a href="" target="_blank"><img alt="Disocrd" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/michael-ringdal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/buzzgreyday" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
