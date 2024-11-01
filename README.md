@@ -35,7 +35,7 @@
         <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
         <p>Developing <a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">the Nodebot</a></p>
     </ol>
-    <p>🌱 I’m currently expanding ML and object-oriented programming skill-set.</p>
+    <p>🌱 I’m currently expanding my ML and object-oriented programming skill-set.</p>
     <p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
     <p>🔭 I’m looking to expand my portfolio.</p>
     <p>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</p>
