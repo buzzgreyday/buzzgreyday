@@ -1,6 +1,6 @@
-<h1>Hi there 👋</h1>
+<h1>Hi, I'm Michael 👋</h1>
 
-<p style="font-size: 16px;">My name is Michael. This is where I share code and break things I love.</p>
+<p style="font-size: 16px;">This is where I share code and break things I love.</p>
 
 <h3>Things I use:</h3>
 <p>
@@ -36,7 +36,7 @@
     <li>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</li>
     <li>🔭 I’m looking to expanding my portfolio.</li>
     <li>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</li>
-    <li>⚡ Fun fact: I got introduced to programming in 2009 where I started making changes to the [iPodLinux bootloader](https://github.com/crozone/ipodloader2).</li>
+    <li>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the [iPodLinux bootloader](https://github.com/crozone/ipodloader2).</li>
 </ul>
 
 <h3>📫 Where to find me:</h3>
