@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael 👋</h1>
 
-<p style="font-size: 16px;">This is where I share code and break things I love.</p>
+<p style="font-size: 16px;">This is where I share code and temporarily break things I love.</p>
 
 <h3>Things I use:</h3>
 <p>
