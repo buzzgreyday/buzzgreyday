@@ -2,7 +2,7 @@
 
 <p style="font-size: 16px;">This is where I share code and break things I love.</p>
 
-<h3>🔨 Things I use:</h3>
+<h3>Things I use:</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
@@ -39,7 +39,7 @@
     <p>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</p>
 </div>
 
-<h3>📫 Where to find me:</h3>
+<h3>Where to find me:</h3>
 <a href="https://discordapp.com/users/794353079825727500" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:micbr@pm.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?&style=for-the-badge&logo=protonmail&logoColor=fff" /></a>
 <a href="https://www.linkedin.com/in/michael-ringdal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
