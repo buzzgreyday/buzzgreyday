@@ -7,9 +7,11 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" />
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" />
-    <img alt="Selenium" src="https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black" />
+    <img alt="Jinja2" src="https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black" />
+    <img alt="Sci-Kit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
