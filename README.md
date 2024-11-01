@@ -2,7 +2,7 @@
 
 <p style="font-size: 16px;">This is where I share code and break things I love.</p>
 
-<h3>Things I use:</h3>
+<h3>🔨 Things I use:</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
     <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
