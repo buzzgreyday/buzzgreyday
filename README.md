@@ -27,16 +27,16 @@
     <img alt="Docker" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
 </p>
 <div style="font-size: 16px;">
-    <p><b>⌨️ My most recent contributions:</b></p>
+    <p>⌨️ My most recent contributions:</p>
     <ol>
         <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
         <p>Developing <a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">the Nodebot</a></p>
     </ol>
-    <p><b>🌱 I’m currently expanding ML and object-oriented programming skill-set.</b></p>
-    <p><b>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</b></p>
-    <p><b>🔭 I’m looking to expanding my portfolio.</b></p>
-    <p><b>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</b></p>
-    <p><b>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</b></p>
+    <p>🌱 I’m currently expanding ML and object-oriented programming skill-set.</p>
+    <p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
+    <p>🔭 I’m looking to expanding my portfolio.</p>
+    <p>💬 Ask me about Philosophy - I hold a master's degree, and I'm especially interested in the domain of <code>rationality</code>.</p>
+    <p>⚡ Baptism: I got introduced to programming in 2009 where I started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</p>
 </div>
 
 <h3>📫 Where to find me:</h3>
