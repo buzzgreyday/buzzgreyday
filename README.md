@@ -42,7 +42,7 @@
     <ol>
         <p><a href="https://github.com/buzzgreyday/pypergraph">Pypergraph Python package</a> aims to provide Python developers with the same tools as <a href="https://github.com/StardustCollective/dag4.js">DAG4.js</a></p>
         <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
-        <p>Developing <a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">the Nodebot</a></p>
+        <p><a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">The Nodebot</a> - one of those projects where one thing took the other. Could use a total redesign.</p>
     </ol>
     <p>🌱 I’m currently expanding my ML and object-oriented programming skill-set.</p>
     <p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
