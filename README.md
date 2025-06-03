@@ -28,9 +28,12 @@
     <img alt="GitVC" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-20232A?style=null&logo=kubernetes&logoColor=61DAFB" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
     <img alt="DO" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=null&logo=react&logoColor=61DAFB" />
+    
 </p>
 <div style="font-size: 16px;">
     <p>⌨️ My most recent contributions:</p>
