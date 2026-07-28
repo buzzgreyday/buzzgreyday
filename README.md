@@ -14,26 +14,17 @@
     <img alt="Redis" src="https://img.shields.io/badge/Redis-20232A?style=null&logo=Redis" />
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" />
     <img alt="Celery" src="https://img.shields.io/badge/Celery-7629G?style=null&logo=Celery" />
-    <img alt="Jinja2" src="https://img.shields.io/badge/jinja-white.svg?logo=jinja&logoColor=black" />
-    <img alt="Sci-Kit Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />
     <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff" />
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white" />
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
     <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
     <img alt="PyPi" src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" />
     <img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-    <img alt="Alacritty" src="https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff" />
     <img alt="GitVC" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-20232A?style=null&logo=kubernetes&logoColor=61DAFB" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
-    <img alt="DO" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=null&logo=react&logoColor=61DAFB" />
     
 </p>
@@ -42,13 +33,9 @@
     <ol>
         <p><a href="https://github.com/buzzgreyday/pypergraph">Pypergraph Python SDK</a> aims to provide Python developers with the same tools as <a href="https://github.com/StardustCollective/dag4.js">DAG4.js</a></p>
         <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
-        <p><a href="https://github.com/buzzgreyday/hgtp-node-discord-bot">The Nodebot</a> - one of those projects where one thing took the other. Could use a total redesign.</p>
     </ol>
-    <p>🌱 I’m currently expanding my ML and object-oriented programming skill-set.</p>
-    <p>👯 I’m looking to collaborate on anything related to data processing, Python development and/or automation.</p>
-    <p>🔭 I’m looking to expand my portfolio and land a job in IT.</p>
-    <p>💬 Ask me about philosophy - I hold a master's degree, and I'm especially interested in <code>rationality</code>.</p>
-    <p>⚡ Baptism: I got introduced to programming in around 2005 and I later started making changes to the <a href="https://github.com/crozone/ipodloader2">iPodLinux bootloader</a>.</p>
+    <p>🌱 I’m currently messing around with MCP servers.</p>
+    <p>💬 Ask me about philosophy - I hold a master's degree, and I'm especially interested in epistemology and history of philosophy.</p>
 </div>
 
 <h3>Where to find me:</h3>
