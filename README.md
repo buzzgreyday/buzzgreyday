@@ -31,8 +31,9 @@
 <div style="font-size: 16px;">
     <p>⌨️ My most recent contributions:</p>
     <ol>
-        <p><a href="https://github.com/buzzgreyday/pypergraph">Pypergraph Python SDK</a> aims to provide Python developers with the same tools as <a href="https://github.com/StardustCollective/dag4.js">DAG4.js</a></p>
-        <p>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</p>
+        <li><a href="https://github.com/buzzgreyday/workchat">Workchat</a> — a full-stack AI-powered CV chat app (FastAPI, Next.js, PostgreSQL) that lets hiring managers ask an LLM agent questions about my background instead of reading a static resume</li>
+        <li><a href="https://github.com/buzzgreyday/pypergraph">Pypergraph Python SDK</a> aims to provide Python developers with the same tools as <a href="https://github.com/StardustCollective/dag4.js">DAG4.js</a></li>
+        <li>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</li>
     </ol>
     <p>🌱 I’m currently messing around with MCP servers.</p>
     <p>💬 Ask me about philosophy - I hold a master's degree, and I'm especially interested in epistemology and history of philosophy.</p>
