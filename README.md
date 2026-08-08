@@ -7,7 +7,7 @@
 <div style="font-size: 16px;">
     <p>⌨️ My most recent contributions:</p>
     <ol>
-        <li><a href="https://github.com/buzzgreyday/workchat">Workchat</a> — a full-stack AI-powered CV chat app (FastAPI, Next.js, PostgreSQL) that lets hiring managers ask an LLM agent questions about my background instead of reading a static resume</li>
+        <li><a href="https://github.com/buzzgreyday/workchat">Workchat</a> — a full-stack AI-powered CV chat app (FastAPI, Next.js, PostgreSQL) that lets hiring managers ask an LLM agent questions about my background instead of reading a static resume (which might be a bad idea but it's fun to make). Contact me to get a token and try it out!</li>
         <li><a href="https://github.com/buzzgreyday/pypergraph">Pypergraph Python SDK</a> aims to provide Python developers with the same tools as <a href="https://github.com/StardustCollective/dag4.js">DAG4.js</a></li>
         <li>Enabling Ledger HW support for <a href="https://github.com/buzzgreyday/stargazer-wallet-ledger">Stargazer Wallet</a> by adding <code>TransactionV2</code> support</li>
     </ol>
